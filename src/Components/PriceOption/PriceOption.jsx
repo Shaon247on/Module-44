@@ -8,7 +8,8 @@ const PriceOption = ({ option }) => {
                 <span className='text-7xl font-bold'>{price}.00 $</span>
                 <span className='text-2xl'>/month</span>
             </h2>
-            <h4 className='text-3xl font-semibold'>{name}</h4>
+            <h4 className='text-3xl font-semibold border-b-2 border-blue-50 pb-3'>{name}</h4>
+            <p className='text-lg font-medium py-3'>{description}</p>
             <div className='pl-6 flex-grow'>
                 {
                     features.map((feature, idx) => <Features key={idx} feature={feature}></Features>)

@@ -1,0 +1,13 @@
+[
+    { "student": "Alice", "math": 85, "physics": 78, "chemistry": 92 },
+    { "student": "Bob", "math": 78, "physics": 90, "chemistry": 85 },
+    { "student": "Charlie", "math": 92, "physics": 82, "chemistry": 88 },
+    { "student": "David", "math": 88, "physics": 85, "chemistry": 90 },
+    { "student": "Eva", "math": 75, "physics": 70, "chemistry": 82 },
+    { "student": "Frank", "math": 80, "physics": 88, "chemistry": 78 },
+    { "student": "Grace", "math": 90, "physics": 92, "chemistry": 95 },
+    { "student": "Hannah", "math": 85, "physics": 78, "chemistry": 85 },
+    { "student": "Ian", "math": 79, "physics": 83, "chemistry": 80 },
+    { "student": "Julia", "math": 87, "physics": 90, "chemistry": 88 }
+  ]
+  
