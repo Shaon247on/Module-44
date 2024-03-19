@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "description": "Access to basic gym facilities",
+      "price": 30,
+      "features": ["Access to cardio and weight training equipment", "Locker room access", "Free weights area", "Fitness assessment"]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "description": "Access to all gym facilities + personal trainer sessions",
+      "price": 60,
+      "features": ["Access to all equipment and facilities", "Personalized workout plans", "Weekly personal training sessions", "Nutritional counseling"]
+    },
+    {
+      "id": 3,
+      "name": "Family Membership",
+      "description": "Access for entire family + group fitness classes",
+      "price": 100,
+      "features": ["Family access to gym facilities", "Unlimited group fitness classes", "Childcare services", "Family fitness events"]
+    },
+    {
+      "id": 4,
+      "name": "Student Membership",
+      "description": "Discounted membership for students with valid ID",
+      "price": 20,
+      "features": ["Access to gym facilities", "Discounts on personal training sessions", "Student-only workout times", "Student workshops"]
+    },
+    {
+      "id": 5,
+      "name": "Senior Membership",
+      "description": "Discounted membership for seniors aged 65+",
+      "price": 25,
+      "features": ["Access to gym facilities during non-peak hours", "Low-impact fitness classes", "Senior fitness assessments", "Senior social events"]
+    }
+  ]
+  
